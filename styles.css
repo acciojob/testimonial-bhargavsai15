@@ -15,6 +15,6 @@
 	background-color: white;
 	width: 700px;
 }
-.test1 i{
-	margin-left: 600px;
+.test1 .author{
+	text-align: right;
 }
